@@ -47,9 +47,9 @@
 
 👤 **Ruri Enciso**
 
-- GitHub: [@githubhandle](https://github.com/RuriEnciso)
-- Twitter: [@twitterhandle](https://twitter.com/rurienciso)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ruri-enciso/)
+- GitHub: [@githubRuriEnciso](https://github.com/RuriEnciso)
+- Twitter: [@twitterRuriEnciso](https://twitter.com/rurienciso)
+- LinkedIn: [LinkedInRuriEnciso](https://www.linkedin.com/in/ruri-enciso/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
