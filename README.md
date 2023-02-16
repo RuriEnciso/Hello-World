@@ -1,43 +1,19 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  <br/>
-
-  <h3><b>Hello Microverse Project</b></h3>
-
-</div>
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [Hello Wolrd] <a name="about-project"></a>
-
-
-**[Hello wolrd]** is a html and css basic project to the Microverse bootcamp. 
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
 
-  <ul>
-    <li>HTML</li>
-  </ul>
-</details>
-
-<details>
-  
-  <ul>
-    <li>CSS</li>
   </ul>
 </details>
 
 <details>
 
-  <ul>
-    <li>VSC</li>
   </ul>
 </details>
+
+<details>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -45,22 +21,12 @@
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Ruri Enciso**
-
-- GitHub: [@githubRuriEnciso](https://github.com/RuriEnciso)
-- Twitter: [@twitterRuriEnciso](https://twitter.com/rurienciso)
-- LinkedIn: [LinkedInRuriEnciso](https://www.linkedin.com/in/ruri-enciso/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
-
-
-If you like this project give me a ⭐️
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
